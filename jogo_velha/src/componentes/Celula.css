@@ -1,0 +1,7 @@
+button.celula {
+    height: 100px;
+    width : 100px;
+    background-color: #fff;
+    border: solid 1px black;
+    font-size: 2em;
+}
